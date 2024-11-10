@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: MAHIER Awen, DUBOIS Timothei, RABOT Valentin, JOUIN Thomas
+Main-Class: Main
